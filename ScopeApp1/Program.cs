@@ -5,6 +5,9 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using SharpGL;
 
+
+
+
 namespace ScopeApp1
 {
     static class Program
